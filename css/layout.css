@@ -369,6 +369,51 @@ ul#nav li.current a { color: #0F4061; }
 }
 
 /* ------------------------------------------------------------------ */
+/* Partners Section
+/* ------------------------------------------------------------------ */
+
+#partners {
+  background: #328dc6;
+  color: #fff;
+  padding-top: 96px;
+  padding-bottom: 72px;
+  overflow: hidden;
+}
+#partners a, #partners a:visited  { color: #0F4061; }
+#partners a:hover, #partners a:focus { color: #fff; }
+
+.section-header,
+.section-content {
+  max-width: 880px;
+}
+#partners .section-header {
+  text-align: center;
+  margin-bottom: 12px;
+}
+#partners .section-header .icon-wrap {
+  font-size: 60px;
+  margin-bottom: 18px;
+  color: #FFFFFF;
+}
+#partners .section-header h1 {
+  font: 30px/36px 'montserrat-bold', sans-serif;
+  color: #fff;
+  margin-bottom: 12px;
+  padding: 0 15%;
+}
+#partners .section-header p {
+  color: #fff;
+  padding: 0 3%;
+}
+#partners h3 {
+  font: 15px/24px 'montserrat-bold', sans-serif;
+  color: #0C3012;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-bottom: 12px;
+}
+
+/* ------------------------------------------------------------------ */
 /* Sponsors Section
 /* ------------------------------------------------------------------ */
 
