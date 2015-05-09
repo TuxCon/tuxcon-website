@@ -373,7 +373,7 @@ ul#nav li.current a { color: #0F4061; }
 /* ------------------------------------------------------------------ */
 
 #partners {
-  background: #328dc6;
+  background: #0F4061;
   color: #fff;
   padding-top: 96px;
   padding-bottom: 72px;
@@ -414,11 +414,80 @@ ul#nav li.current a { color: #0F4061; }
 }
 
 /* ------------------------------------------------------------------ */
+/* speakers Section
+/* ------------------------------------------------------------------ */
+
+#speakers {
+  background: #0F4061;
+  color: #fff;
+  padding-top: 96px;
+  padding-bottom: 72px;
+  overflow: hidden;
+}
+#speakers a, #speakers a:visited  { color: #0C3012; }
+#speakers a:hover, #speakers a:focus { color: #fff; }
+
+.speakers-all
+{
+  display: table;
+  margin: 5% 10% 5% 10%;
+}
+
+.speakers-row
+{
+  display: table-row;
+}
+.speakers-info
+{
+  display: table-cell;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 5%;
+  vertical-align: top;
+}
+
+.speakers-text
+{
+  text-align: left;
+}
+
+
+.section-header,
+.section-content {
+  max-width: 880px;
+}
+#speakers .section-header {
+  text-align: center;
+  margin-bottom: 12px;
+}
+#speakers .section-header .icon-wrap {
+  font-size: 60px;
+  margin-bottom: 18px;
+  color: #FFFFFF;
+}
+#speakers .section-header h1 {
+  font: 30px/36px 'montserrat-bold', sans-serif;
+  color: #fff;
+  margin-bottom: 12px;
+  padding: 0 15%;
+}
+#speakers .section-header p {
+  color: #fff;
+  padding: 0 3%;
+}
+#speakers h3 {
+  font: 18px/28px 'montserrat-bold', sans-serif;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+/* ------------------------------------------------------------------ */
 /* Sponsors Section
 /* ------------------------------------------------------------------ */
 
 #sponsors {
-  background: #0F4061;
+  background: #328dc6;
   color: #fff;
   padding-top: 96px;
   padding-bottom: 72px;
