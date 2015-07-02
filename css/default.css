@@ -841,3 +841,23 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
+
+.freeplanet {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #222!important;
+}
+
+.freeplanet A:link {
+  color: #222!important; text-decoration: none;
+}
+
+.freeplanet A:visited {
+  color: #222!important;
+  text-decoration: none;
+}
+.freeplanet A:hover {
+  color: #222!important;
+  text-decoration: none;
+}
