@@ -861,3 +861,32 @@ properly.
   color: #222!important;
   text-decoration: none;
 }
+
+.rTable {
+  display: table;
+}
+
+.rTableRow {
+  display: table-row;
+}
+
+.rTableBody {
+  display: table-row-group;
+}
+
+.rTableCell {
+  font-family: sans-serif;
+  font-size: 1.2em;
+  display: table-cell;
+  padding: 5pt;
+}
+
+.rTableCellOne {
+  width: 30%;
+  text-align: right;
+}
+
+.rTableCellTwo {
+  width: 70%;
+  text-align: left;
+}
