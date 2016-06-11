@@ -494,6 +494,7 @@ ul#nav li.current a { color: #0F4061; }
   padding-right: 2%;
   padding-bottom: 5%;
   vertical-align: top;
+  min-width: 200px;
 }
 
 .speakers-text
