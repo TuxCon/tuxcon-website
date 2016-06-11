@@ -862,6 +862,28 @@ properly.
   text-decoration: none;
 }
 
+.sandacite {
+  font-size: 1.5em;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-style: normal;
+  font-weight: bold;
+  color: #241E14!important;
+  margin: 1.5em;
+}
+
+.sandacite A:link {
+  color: #241E14!important; text-decoration: none;
+}
+
+.sandacite A:visited {
+  color: #241E14!important;
+  text-decoration: none;
+}
+.sandacite A:hover {
+  color: #241E14!important;
+  text-decoration: none;
+}
+
 .rTable {
   display: table;
 }
