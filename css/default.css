@@ -912,3 +912,18 @@ properly.
   width: 70%;
   text-align: left;
 }
+
+.tshirt {
+  font-size: 1.6em!important;
+  color: #f5a200!important;
+  text-decoration: none;
+}
+
+.tshirt A:link {
+}
+
+.tshirt A:visited {
+}
+
+.tshirt A:hover {
+}
