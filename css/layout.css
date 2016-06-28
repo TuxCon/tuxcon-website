@@ -738,3 +738,7 @@ footer .copyright  li:first-child:before {
  	border-radius: 3px;
 }
 #go-top a:hover { background: #0F4061; }
+
+#sponsors-links {
+   line-height: 500%;
+}
