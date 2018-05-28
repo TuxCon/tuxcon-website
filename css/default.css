@@ -740,6 +740,16 @@ properly.
 .first { clear: left; }   /* first column in default screen */
 .s-first { clear: none; } /* first column in smaller screens */
 
+.tshirt {
+  font-size: 1.6em!important;
+  color: #f5a200!important;
+  text-decoration: none;
+  border: 2px solid #f5a200;
+  background: #0F4061;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
 /* smaller screens
 --------------------------------------------------------------- */
 @media only screen and (max-width: 900px) {
@@ -753,6 +763,7 @@ properly.
    /* block grids left clearing */
    .first { clear: none; }
    .s-first { clear: left; }
+   .tshirt { font-size: 1em!important;}
 
 }
 
@@ -913,15 +924,7 @@ properly.
   text-align: left;
 }
 
-.tshirt {
-  font-size: 1.6em!important;
-  color: #f5a200!important;
-  text-decoration: none;
-  border: 2px solid #f5a200;
-  background: #0F4061;
-  padding: 5px 10px;
-  border-radius: 20px;
-}
+
 
 .tshirt A:link {
 }
