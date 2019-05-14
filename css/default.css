@@ -741,13 +741,12 @@ properly.
 .s-first { clear: none; } /* first column in smaller screens */
 
 .tshirt {
-  font-size: 1.6em!important;
-  color: #f5a200!important;
-  text-decoration: none;
-  border: 2px solid #f5a200;
-  background: #0F4061;
-  padding: 5px 10px;
-  border-radius: 20px;
+	font-size: 1.6em !important;
+	color: #000 !important;
+	text-decoration: none;
+	background: #f5a200;
+	padding: 5px 20px;
+	border-radius: 20px;
 }
 
 /* smaller screens
