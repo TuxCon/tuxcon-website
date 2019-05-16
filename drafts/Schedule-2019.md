@@ -31,7 +31,7 @@
 |3| Георги Колев      | (How to) Pimp my car |Архитектура на CAN мрежите в автомобилите и стандартни начини за (раз)пакетиране на информация. |
 |4| Галя Манчева      | Обществени пари? Обществен код! | Public Money? Public Code! https://publiccode.eu |
 |5| Орлин Димитров    | Робко 1 - Второто пришествие | Super star & Super Nova |
-|6| Мариян hackman Маринов | Light controllers в офиса / Climate concierge в колата | |
+|6| Мариян hackman Маринов | SiteGround's Open Source Light Controller / Climate concierge в колата | |
 |7| Димитър Гамишев | (Чакаме заглавие) | |
 |8| Lightning talks | | |
 
