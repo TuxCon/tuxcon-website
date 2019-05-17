@@ -19,7 +19,7 @@
  * - 10 минути пауза
  * 17:20 - 18:00 - Лекция №8 / Lightning talks
  * - 10 минути пазуа
- * 17:10 - 18:30 - Викторина
+ * 18:10 - 18:30 - Викторина
 
 
 ## Зала 1
@@ -32,7 +32,7 @@
 |4| Галя Манчева      | Обществени пари? Обществен код! | Public Money? Public Code! https://publiccode.eu |
 |5| Орлин Димитров    | Робко 1 - Второто пришествие | Super star & Super Nova |
 |6| Мариян hackman Маринов | SiteGround's Open Source Light Controller / Climate concierge в колата | |
-|7| Димитър Гамишев | (Чакаме заглавие) | |
+|7| Димитър Гамишев | Linux secure boot, защитете системата си | |
 |8| Lightning talks | | |
 
 ## Зала 2
