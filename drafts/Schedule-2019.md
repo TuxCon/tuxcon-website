@@ -30,8 +30,8 @@
 |2| Мирослав Петров   | Домашна автоматизация с zigbee2mqtt и diyHue | |
 |3| Георги Колев      | (How to) Pimp my car |Архитектура на CAN мрежите в автомобилите и стандартни начини за (раз)пакетиране на информация. |
 |4| Галя Манчева      | Обществени пари? Обществен код! | Public Money? Public Code! https://publiccode.eu |
-|5| Орлин Димитров    | Робко 1 - Второто пришествие | Super star & Super Nova |
-|6| Мариян hackman Маринов | SiteGround's Open Source Light Controller / Climate concierge в колата | |
+|5| Мариян hackman Маринов | SiteGround's Open Source Light Controller / Climate concierge в колата | |
+|6| Орлин Димитров    | Робко 1 - Второто пришествие | Super star & Super Nova |
 |7| Димитър Гамишев | Linux secure boot, защитете системата си | |
 |8| Lightning talks | | |
 
