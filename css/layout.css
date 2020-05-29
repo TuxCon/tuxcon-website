@@ -277,6 +277,50 @@ ul#nav li.current a { color: #0F4061; }
 #main .social li a { color: #fff; }
 #main .social li a:hover { color: #0F4061; }
 
+/* ------------------------------------------------------------------ */
+/* c. Video Section
+/* ------------------------------------------------------------------ */
+
+#video {
+	background: #001a33;
+	color: #fff;
+   padding-top: 96px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+#video a, #video a:visited  { color: #328dc6; }
+#video a:hover, #video a:focus { color: #328dc6; }
+
+.section-header,
+.section-content {
+	max-width: 880px;
+}
+#video .section-header {
+	text-align: center;
+	margin-bottom: 12px;
+}
+#video .section-header .icon-wrap {
+	font-size: 60px;
+	margin-bottom: 18px;
+	color: #FFFFFF;
+}
+#video .section-header h1 {
+   font: 30px/36px 'montserrat-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+   padding: 0 15%;
+}
+#video .section-header p {
+	color: #fff;
+	padding: 0 3%;
+}
+#video h3 {
+   font: 15px/24px 'montserrat-bold', sans-serif;
+   color: #0C3012;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   margin-bottom: 12px;
+}
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
