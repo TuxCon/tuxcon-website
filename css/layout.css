@@ -470,11 +470,14 @@ ul#nav li.current a { color: #0F4061; }
   background: #0F4061;
   color: #fff;
   padding-top: 96px;
-  padding-bottom: 72px;
   overflow: hidden;
 }
 #partners a, #partners a:visited  { color: #0F4061; }
 #partners a:hover, #partners a:focus { color: #fff; }
+
+#partners a {
+  display: block;
+}
 
 .section-header,
 .section-content {
